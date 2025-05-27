@@ -3,7 +3,7 @@ import '../styles/NavBar.sass'
 
 function NavBar() {
   return (
-    <header>
+    <header className='header-top'>
         <nav className="navbar">
         <div className="navbar__logo">TalentoTech Shop</div>
         <ul className="navbar__links">
